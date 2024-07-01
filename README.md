@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thakkarkush
-- 👀 I’m interested in python technology 
+👋 Hi, I’m @Thakkarkush
+    python developer
 
 
 <!---
